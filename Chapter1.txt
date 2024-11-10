@@ -3,3 +3,5 @@ code <file-name>:- to open file
 example: open Chapter1.txt file
 Here is the code to open:
 "code Chapter1.txt
+
+My brave daughter nardi thank you for listening my advice God bless you.
